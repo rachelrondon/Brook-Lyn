@@ -1,0 +1,35 @@
+#icons {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+
+#press-icons {
+  border-style: solid;
+  border-width: 2px;
+  border-color: grey;
+  width: 100%;
+}
+
+
+#page-images {
+  width: 100%;
+}
+
+
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  align-content: center;
+  margin-left: 10%;
+}
+
+
+h1, h2, h3, h4, p {
+  font-size:12px;
+  line-height: 17px;
+  font-family:"Times New Roman", serif;
+  font-color:#656565;
+}
